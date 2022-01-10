@@ -1,1 +1,11 @@
 // Code your solution in this file!
+const companyName = `Scuber`;
+// company name is equal to Scuber. 
+
+// const mostProfitableNeighborhood = `Chelsea`;
+
+let mostProfitableNeighborhood = `Chelsea`;
+
+// const companyCeo = `Susan Smith`;
+
+let companyCeo = `Susan Smith`;
